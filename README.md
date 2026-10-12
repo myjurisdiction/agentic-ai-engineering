@@ -1,4 +1,4 @@
-# Agentic AI — Concepts, Experiments & Implementations
+# Agentic AI — Concepts, Experiments and Implementations
 
 This repository documents my journey into **Agentic AI**, following Andrew Ng's _Agentic AI_ course on [DeepLearning.AI](https://www.deeplearning.ai/).
 
